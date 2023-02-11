@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6fb89e7f.css","mappings":"AAAA,wBACI,wBAAiB,CAAjB,gBACJ,CAEA,KACI,4EACJ","sources":["App.css"],"sourcesContent":[".accordion-button::after{\r\n    filter: invert(1);\r\n}\r\n\r\nbody{\r\n    background-image: url(\"https://www.transparenttextures.com/patterns/cubes.png\");\r\n}\r\n\r\n"],"names":[],"sourceRoot":""}
